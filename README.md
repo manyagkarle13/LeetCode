@@ -55,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/manyagkarle13/LeetCode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/manyagkarle13/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/manyagkarle13/LeetCode/tree/master/0856-score-of-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/manyagkarle13/LeetCode/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/manyagkarle13/LeetCode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
